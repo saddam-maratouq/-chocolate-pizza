@@ -1,0 +1,184 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    padding:20px;
+    width: 70%;
+    margin: auto;
+}
+
+
+header {
+    height: 100px;
+    position: relative;
+    margin-bottom: 0;
+    
+}
+h1{
+    font-family: 'Yellowtail', cursive;
+    margin-bottom: 0;
+}
+h4{
+    color: rgb(134, 133, 133);
+    font-family: 'Open Sans Condensed', sans-serif;
+    clear: both;
+    margin-top: 0;
+    position: relative;
+    bottom: 5px;
+    left: 2px;
+    
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 0;
+}
+#logo{
+    float: left;
+}
+
+#firtList {
+    position: relative;
+     float: left;
+     bottom: 20px;
+    
+}
+#secList{
+    float: right;
+}
+nav{
+    margin-bottom: 0;
+}
+ .hr{
+    width: 100%;
+}
+main{
+    margin-top: 60px;
+}
+#posted{
+    color: gray;
+    margin-top: 0;
+}
+#print-div{
+    position: relative;
+    left: 95%;
+    bottom: 30px;
+}
+.print-img{
+    float: left;
+}
+.print{
+position: relative;
+bottom: 5px;
+font-family: 'Open Sans Condensed', sans-serif;
+color: rgb(160, 158, 158);
+}
+
+.hrao{
+    width: 100%;
+}
+#heroImg{
+    width: 100%;
+    height: 600px;
+}
+.par-main p{
+    color: rgb(77, 75, 75);
+    height: 70px;
+}
+.mid{
+    display:inline-block;
+    width: 100%;
+    padding-left: 10%;
+}
+form{
+    font-family: 'Times New Roman', Times, serif;
+}
+#check-left {
+    float: left;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+#check-right {
+    float: right;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+.par-main{
+    margin-bottom: 50px;
+}
+
+.mid{
+    background-image: url("img/list-bg.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   
+}
+form{
+    font-family: 'Sofadi One', cursive;
+}
+#granulated{
+
+    text-decoration: line-through;
+}
+#egg{
+
+    text-decoration: line-through;
+}
+
+#footImg{
+    float: left;
+}
+.foot-up{
+    display: inline-block;
+    width: 100%;
+    padding:10px;
+    position: relative;
+    bottom: 5px;
+}
+#footH2{
+    position: relative;
+         float: left;
+         bottom: 20px;
+}
+#footH2 h2{
+margin-bottom: 0;
+}
+#footH2 p{
+    margin-top:10px;
+    position: relative;
+    bottom: 5px;
+    left: 2px;
+}
+
+
+.foot-down{
+    margin: 30;
+}
+#lastImg{
+    text-align: center;
+}
+
+#btn{
+    background-color:#BC7058;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float:right;
+}
+
+h5{
+    size:40px;
+    color: rgb(172, 168, 168);
+}
